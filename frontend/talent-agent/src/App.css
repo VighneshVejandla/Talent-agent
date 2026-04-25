@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,300;14..32,400;14..32,500;14..32,600;14..32,700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background: linear-gradient(145deg, #f0f4fa 0%, #e6edf4 100%);
+  min-height: 100vh;
+  color: #1a2a3f;
+}
+
+.App {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 1.5rem 2rem;
+}
+
+/* smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #e2e8f0;
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb {
+  background: #818cf8;
+  border-radius: 10px;
+}
+
+/* shortlist table */
+.shortlist-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  background: white;
+  border-radius: 1.5rem;
+  overflow: hidden;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.05);
+  margin: 1.5rem 0;
+}
+
+.shortlist-table thead tr {
+  background: #4f46e5;
+  background: linear-gradient(95deg, #4f46e5, #6366f1);
+}
+
+.shortlist-table th {
+  color: white;
+  font-weight: 600;
+  font-size: 0.9rem;
+  padding: 1rem 1rem;
+  text-align: left;
+  letter-spacing: 0.3px;
+}
+
+.shortlist-table td {
+  padding: 1rem 1rem;
+  border-bottom: 1px solid #eef2ff;
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: #1e293b;
+}
+
+.shortlist-table tr:hover td {
+  background-color: #f8fafc;
+}
+
+/* badge style for scores */
+.score-badge {
+  display: inline-block;
+  background: #eef2ff;
+  padding: 0.25rem 0.8rem;
+  border-radius: 30px;
+  font-weight: 600;
+  font-size: 0.85rem;
+  color: #1e293b;
+}
+
+.high-score {
+  background: #d1fae5;
+  color: #065f46;
+}
+
+.medium-score {
+  background: #fed7aa;
+  color: #92400e;
+}
+
+.low-score {
+  background: #fee2e2;
+  color: #b91c1c;
+}
+
+/* candidate card grid */
+.candidates-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
+  gap: 1.8rem;
+  margin-top: 1rem;
+}
+
+/* responsive */
+@media (max-width: 780px) {
+  .App {
+    padding: 1rem;
+  }
+  .candidates-grid {
+    grid-template-columns: 1fr;
+  }
+}
