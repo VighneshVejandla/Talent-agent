@@ -1,0 +1,162 @@
+ [
+  {
+    "name": "Alice Sharma",
+    "skills": ["Python", "Django", "PostgreSQL", "REST API", "Git"],
+    "experience": 5,
+    "location": "Bengaluru",
+    "preferred_job_type": "remote",
+    "summary": "Backend engineer with 5 years of Python backend experience. Open to remote roles."
+  },
+  {
+    "name": "Bob Chen",
+    "skills": ["Java", "Spring Boot", "Redis", "Kafka", "Linux"],
+    "experience": 4,
+    "location": "Hyderabad",
+    "preferred_job_type": "hybrid",
+    "summary": "Java backend engineer who enjoys building scalable services on cloud platforms."
+  },
+  {
+    "name": "Carol Patel",
+    "skills": ["JavaScript", "React", "TypeScript", "Node.js", "GraphQL"],
+    "experience": 6,
+    "location": "Mumbai",
+    "preferred_job_type": "remote",
+    "summary": "Full‑stack developer with 6 years of frontend and backend experience."
+  },
+  {
+    "name": "David Kim",
+    "skills": ["Python", "Pandas", "NumPy", "SQL", "ML"],
+    "experience": 3,
+    "location": "Pune",
+    "preferred_job_type": "onsite",
+    "summary": "Data analyst with basic machine learning skills looking for onsite roles."
+  },
+  {
+    "name": "Elena Rodriguez",
+    "skills": ["Python", "Flask", "Docker", "AWS", "REST API"],
+    "experience": 7,
+    "location": "Delhi",
+    "preferred_job_type": "remote",
+    "summary": "Senior backend engineer comfortable with cloud‑native deployments."
+  },
+  {
+    "name": "Frank Wu",
+    "skills": ["Node.js", "Express", "MongoDB", "Redis", "TypeScript"],
+    "experience": 5,
+    "location": "Chennai",
+    "preferred_job_type": "remote",
+    "summary": "Full‑stack developer specializing in Node and MongoDB."
+  },
+  {
+    "name": "Grace Tan",
+    "skills": ["Java", "Spring", "Kubernetes", "Jenkins", "SQL"],
+    "experience": 8,
+    "location": "Hyderabad",
+    "preferred_job_type": "onsite",
+    "summary": "Senior Java engineer with strong DevOps experience."
+  },
+  {
+    "name": "Henry Li",
+    "skills": ["Python", "FastAPI", "PostgreSQL", "Redis", "Docker"],
+    "experience": 4,
+    "location": "Bengaluru",
+    "preferred_job_type": "remote",
+    "summary": "Backend engineer building Python‑based APIs on cloud infra."
+  },
+  {
+    "name": "Ivy Gupta",
+    "skills": ["JavaScript", "React", "Redux", "Node.js", "CSS"],
+    "experience": 5,
+    "location": "Noida",
+    "preferred_job_type": "hybrid",
+    "summary": "Front‑end focused full‑stack developer with strong React skills."
+  },
+  {
+    "name": "Jack Thompson",
+    "skills": ["Python", "Django", "PostgreSQL", "Docker", "CI/CD"],
+    "experience": 6,
+    "location": "Gurugram",
+    "preferred_job_type": "remote",
+    "summary": "Full‑stack engineer building Django‑based SaaS products."
+  },
+  {
+    "name": "Kavita Reddy",
+    "skills": ["Java", "Spring Boot", "Kafka", "PostgreSQL", "AWS"],
+    "experience": 5,
+    "location": "Hyderabad",
+    "preferred_job_type": "onsite",
+    "summary": "Backend engineer building low‑latency microservices."
+  },
+  {
+    "name": "Leo Wang",
+    "skills": ["Python", "FastAPI", "SQL", "Caching", "Docker"],
+    "experience": 4,
+    "location": "Pune",
+    "preferred_job_type": "remote",
+    "summary": "Backend engineer with strong API and caching skills."
+  },
+  {
+    "name": "Maya Singh",
+    "skills": ["JavaScript", "React", "Next.js", "TypeScript", "GraphQL"],
+    "experience": 3,
+    "location": "Bengaluru",
+    "preferred_job_type": "remote",
+    "summary": "Front‑end developer specializing in React and Next.js."
+  },
+  {
+    "name": "Nikhil Menon",
+    "skills": ["Python", "ML", "TensorFlow", "SQL", "Docker"],
+    "experience": 6,
+    "location": "Hyderabad",
+    "preferred_job_type": "onsite",
+    "summary": "Machine learning engineer with 6 years of applied ML experience."
+  },
+  {
+    "name": "Omar Zahid",
+    "skills": ["Go", "gRPC", "Kubernetes", "Docker", "PostgreSQL"],
+    "experience": 5,
+    "location": "Bengaluru",
+    "preferred_job_type": "remote",
+    "summary": "Backend engineer building high‑performance Go services."
+  },
+  {
+    "name": "Priya Malhotra",
+    "skills": ["Java", "Spring Boot", "Kafka", "Elasticsearch", "AWS"],
+    "experience": 4,
+    "location": "Hyderabad",
+    "preferred_job_type": "hybrid",
+    "summary": "Backend engineer working with event‑driven architectures."
+  },
+  {
+    "name": "Rahul Desai",
+    "skills": ["Python", "Django", "PostgreSQL", "Celery", "Redis"],
+    "experience": 5,
+    "location": "Pune",
+    "preferred_job_type": "onsite",
+    "summary": "Backend engineer building Django‑based web applications."
+  },
+  {
+    "name": "Sara Ahmed",
+    "skills": ["JavaScript", "React", "Redux", "Node.js", "Testing"],
+    "experience": 4,
+    "location": "Delhi",
+    "preferred_job_type": "remote",
+    "summary": "Full‑stack developer with strong testing and code‑quality practices."
+  },
+  {
+    "name": "Tom Johnson",
+    "skills": ["Python", "FastAPI", "SQL", "Caching", "Logging"],
+    "experience": 3,
+    "location": "Hyderabad",
+    "preferred_job_type": "remote",
+    "summary": "Backend engineer building scalable APIs with strong observability."
+  },
+  {
+    "name": "Uma Nair",
+    "skills": ["Python", "Django", "PostgreSQL", "Docker", "AWS"],
+    "experience": 7,
+    "location": "Hyderabad",
+    "preferred_job_type": "onsite",
+    "summary": "Senior backend engineer with 7 years of full‑stack experience."
+  }
+]
